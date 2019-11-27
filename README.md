@@ -1,4 +1,4 @@
-# Secret Strava challenges fetcher
+# Strava secret & hidden challenges getter
 
 Simple bash script that checks for new Stava challenges. Since challenges are available not only via slug (e.g. https://www.strava.com/challenges/HOKA-ONE-ONE-Run-Valencia) but also via unique id (https://www.strava.com/challenges/1594) we're able to look for "secret challenges" (not all are visible in all regions but you can join any!).
 
