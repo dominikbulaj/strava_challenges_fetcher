@@ -22,7 +22,7 @@ https://www.strava.com/challenges/1603 - Strava Brasil Team Track Run Challenge
 ---
 **NOTE**
 
-I'm not affiliated or effected with [Strava](https://github.com/strava). I just thought I can share simple solution I have been looking for months :-)
+I'm not affiliated or effected with [Strava](https://github.com/strava). I just thought I can share simple solution I have been looking for for a few months.
 
 ---
 
